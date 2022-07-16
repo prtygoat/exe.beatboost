@@ -1,0 +1,4 @@
+C:\ProgramData\Microsoft\VisualStudio\Packages
+C:\Program Files (x86)\Microsoft Visual Studio\Shared
+C:\Program Files\Microsoft Visual Studio\2022\Community
+https://script.google.com/macros/s/AKfycbzDe_dbMzBYUmis0153hbYz4N-iYC6pGCiLKBAKzCuc6Q0JEKFvZeRNsqm9fmunLxag/exec
